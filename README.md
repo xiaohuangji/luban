@@ -1,4 +1,4 @@
-pyboost
+Luban
 =======
 
-网页抓取内容并处理
+Luban is a Python script wroten for Judy to crawler the Patent website and automatically generator first version of Patent extraction for later review. 
